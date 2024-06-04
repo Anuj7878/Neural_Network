@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import src
 
 from src.config import config
 import src.preprocessing.preprocessors as pp
