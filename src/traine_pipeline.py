@@ -3,8 +3,8 @@ import numpy as np
 import src
 
 from src.config import config
-import src.preprocessing.preprocessors as pp
-from src.preprocessing.data_management import load_dataset, save_model, load_model
+import src.config.preprocessing.preprocessors as pp
+from src.config.preprocessing.data_management import load_dataset, save_model, load_model
 
 import pipeline as pl
 
